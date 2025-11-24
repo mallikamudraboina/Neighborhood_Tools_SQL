@@ -1,0 +1,201 @@
+tool_id,owner_id,category_id,title,description,condition,available,deposit_amount,location_id,price_per_day,availability,created_at
+1,1,1,Hammer,"Steel hammer for construction",Good,1,50.00,1,10,Yes,2022-01-10
+2,2,2,"Drill Machine","Electric drill machine",Excellent,1,100.00,2,25,Yes,2022-02-15
+3,3,3,"Screwdriver Set","Set of 6 screwdrivers",Good,1,30.00,3,8,Yes,2022-03-20
+4,4,1,Wrench,"Adjustable wrench",Fair,1,40.00,4,12,Yes,2022-04-05
+5,5,2,"Power Saw","Electric power saw for wood",Good,1,150.00,5,35,Yes,2022-05-12
+6,6,3,"Pliers Set","Set of pliers",Excellent,1,45.00,6,10,Yes,2022-06-18
+7,7,1,"Tape Measure","10m measuring tape",Good,1,20.00,7,5,Yes,2022-07-22
+8,8,2,"Angle Grinder","Electric angle grinder",Good,1,120.00,8,28,Yes,2022-08-30
+9,9,3,"Chisel Set","Wood chisels set",Fair,1,35.00,9,9,Yes,2022-09-15
+10,10,1,Ladder,"Aluminium ladder 3m",Excellent,1,80.00,10,20,Yes,2022-10-05
+11,11,2,"Circular Saw","Circular saw for wood",Good,1,140.00,11,32,Yes,2022-11-12
+12,12,3,"Nut Driver Set","Set of nut drivers",Good,1,25.00,12,7,Yes,2022-12-08
+13,13,1,Level,"Spirit level 1m",Excellent,1,30.00,13,6,Yes,2023-01-10
+14,14,2,Jigsaw,"Electric jigsaw",Good,1,110.00,14,30,Yes,2023-02-20
+15,15,3,"Socket Set","Set of sockets",Good,1,50.00,15,12,Yes,2023-03-05
+16,16,1,Crowbar,"Steel crowbar",Fair,1,40.00,16,10,Yes,2023-04-12
+17,17,2,Sander,"Electric sander",Good,1,90.00,17,25,Yes,2023-05-18
+18,18,3,"Hand Saw","Manual hand saw",Good,1,30.00,18,8,Yes,2023-06-25
+19,19,1,Toolbox,"Metal toolbox",Excellent,1,60.00,19,15,Yes,2023-07-12
+20,20,2,Router,"Electric router",Good,1,130.00,20,28,Yes,2023-08-20
+21,21,3,"Wire Cutter","Set of wire cutters",Good,1,25.00,21,9,Yes,2023-09-05
+22,22,1,"Paint Sprayer","Electric paint sprayer",Excellent,1,150.00,22,35,Yes,2023-10-12
+23,23,2,"Heat Gun","Electric heat gun",Good,1,80.00,23,20,Yes,2023-11-18
+24,24,3,"Clamp Set","Set of clamps",Good,1,40.00,24,10,Yes,2023-12-05
+25,25,1,Mallet,"Rubber mallet",Fair,1,25.00,25,6,Yes,2024-01-08
+26,26,2,"Electric Screwdriver","Cordless screwdriver",Good,1,70.00,26,18,Yes,2024-02-12
+27,27,3,"Combination Square","Metal square ruler",Good,1,20.00,27,5,Yes,2024-03-15
+28,28,1,"Step Ladder","Aluminium 4-step ladder",Excellent,1,90.00,28,22,Yes,2024-04-20
+29,29,2,"Angle Drill","Electric angle drill",Good,1,110.00,29,27,Yes,2024-05-05
+30,30,3,"Bolt Cutter","Heavy duty bolt cutter",Good,1,60.00,30,15,Yes,2024-06-12
+31,31,1,"Caulking Gun","Manual caulking gun",Fair,1,20.00,31,5,Yes,2024-07-18
+32,32,2,"Impact Wrench","Electric impact wrench",Good,1,100.00,32,25,Yes,2024-08-25
+33,33,3,"Paint Roller Set","Set of paint rollers",Good,1,30.00,33,8,Yes,2024-09-12
+34,34,1,"Work Bench","Portable work bench",Excellent,1,120.00,34,30,Yes,2024-10-20
+35,35,2,"Cordless Drill","Battery powered drill",Good,1,90.00,35,25,Yes,2024-11-05
+36,36,3,"Screw Extractor","Set of screw extractors",Good,1,35.00,36,10,Yes,2024-12-12
+37,37,1,"Spirit Level","1m aluminium level",Excellent,1,25.00,37,6,Yes,2025-01-08
+38,38,2,Jointer,"Electric wood jointer",Good,1,140.00,38,32,Yes,2025-02-15
+39,39,3,"Hand Plane","Wood hand plane",Good,1,50.00,39,12,Yes,2025-03-05
+40,40,1,"Nail Gun","Electric nail gun",Excellent,1,120.00,40,30,Yes,2025-04-12
+41,41,2,"Tile Cutter","Manual tile cutter",Good,1,60.00,41,18,Yes,2025-05-18
+42,42,3,"Wire Stripper","Set of wire strippers",Good,1,25.00,42,8,Yes,2025-06-25
+43,43,1,"Tool Cart","Portable tool cart",Excellent,1,80.00,43,20,Yes,2025-07-12
+44,44,2,"Sander Machine","Electric sander",Good,1,90.00,44,25,Yes,2025-08-20
+45,45,3,Clamp,"Single clamp",Good,1,20.00,45,6,Yes,2025-09-05
+46,46,1,"Drill Bit Set","Set of 10 drill bits",Excellent,1,40.00,46,10,Yes,2025-10-12
+47,47,2,"Angle Finder","Angle measuring tool",Good,1,25.00,47,7,Yes,2025-11-18
+48,48,3,"Chop Saw","Electric chop saw",Good,1,130.00,48,32,Yes,2025-12-05
+49,49,1,Flashlight,"LED work flashlight",Excellent,1,15.00,49,5,Yes,2025-01-08
+50,50,2,"Portable Generator","Small electric generator",Good,1,150.00,50,35,Yes,2025-02-12
+51,51,3,"Screw Rack","Wall screw rack",Good,1,30.00,1,8,Yes,2025-03-15
+52,52,1,"Workbench Vise","Bench mounted vise",Excellent,1,60.00,2,20,Yes,2025-04-20
+53,53,2,"Circular Jig","Circular woodworking jig",Good,1,70.00,3,18,Yes,2025-05-05
+54,54,3,"Router Table","Electric router table",Good,1,120.00,4,30,Yes,2025-06-12
+55,55,1,"Bench Grinder","Electric bench grinder",Excellent,1,80.00,5,25,Yes,2025-07-18
+56,56,2,"Paint Sprayer Pro","Advanced paint sprayer",Good,1,150.00,6,35,Yes,2025-08-25
+57,57,3,"Heat Torch","Portable heat torch",Good,1,90.00,7,20,Yes,2025-09-12
+58,58,1,"Pneumatic Nail Gun","Air powered nail gun",Excellent,1,120.00,8,30,Yes,2025-10-20
+59,59,2,"Tool Bag","Heavy duty tool bag",Good,1,50.00,9,15,Yes,2025-11-05
+60,60,3,"Angle Clamp","Set of angle clamps",Good,1,40.00,10,10,Yes,2025-12-12
+61,61,1,"Socket Wrench","Adjustable socket wrench",Excellent,1,60.00,11,15,Yes,2025-01-08
+62,62,2,"Cordless Sander","Battery powered sander",Good,1,90.00,12,25,Yes,2025-02-15
+63,63,3,"Measuring Tape","5m steel tape",Good,1,20.00,13,6,Yes,2025-03-05
+64,64,1,"Ladder 4m","Aluminium ladder",Excellent,1,100.00,14,25,Yes,2025-04-12
+65,65,2,"Impact Driver","Electric impact driver",Good,1,110.00,15,28,Yes,2025-05-18
+66,66,3,Chisel,"Wood chisel",Good,1,25.00,16,8,Yes,2025-06-25
+67,67,1,"Screw Holder","Wall mounted screw holder",Excellent,1,30.00,17,7,Yes,2025-07-12
+68,68,2,"Tool Stand","Portable tool stand",Good,1,80.00,18,20,Yes,2025-08-20
+69,69,3,"Hand Drill","Manual hand drill",Good,1,40.00,19,10,Yes,2025-09-05
+70,70,1,"Bolt Set","Set of bolts",Excellent,1,25.00,20,8,Yes,2025-10-12
+71,71,2,"Clamp Rack","Rack for clamps",Good,1,35.00,21,10,Yes,2025-11-18
+72,72,3,"Workbench Light","LED light for bench",Good,1,20.00,22,5,Yes,2025-12-05
+73,73,1,"Paint Brush Set","Set of 5 brushes",Excellent,1,15.00,23,6,Yes,2025-01-08
+74,74,2,"Drill Stand","Stand for drill machine",Good,1,70.00,24,18,Yes,2025-02-12
+75,75,3,"Angle Block","Set of angle blocks",Good,1,30.00,25,8,Yes,2025-03-15
+76,76,1,Hacksaw,"Manual hacksaw",Excellent,1,40.00,26,10,Yes,2025-04-20
+77,77,2,"Rivet Gun","Electric rivet gun",Good,1,80.00,27,20,Yes,2025-05-05
+78,78,3,"Hand Screwdriver","Manual screwdriver",Good,1,20.00,28,5,Yes,2025-06-12
+79,79,1,"Workbench Organizer","Organizer for tools",Excellent,1,50.00,29,15,Yes,2025-07-18
+80,80,2,"Electric Jigsaw","Electric powered jigsaw",Good,1,90.00,30,25,Yes,2025-08-25
+81,81,3,"Bolt Extractor","Tool for removing bolts",Good,1,35.00,1,10,Yes,2025-09-12
+82,82,1,"Measuring Square","Metal measuring square",Excellent,1,20.00,2,6,Yes,2025-10-20
+83,83,2,"Cordless Screwdriver","Battery powered screwdriver",Good,1,60.00,3,15,Yes,2025-11-05
+84,84,3,"Workbench Mat","Rubber mat for workbench",Good,1,25.00,4,8,Yes,2025-12-12
+85,85,1,"Drill Press","Electric drill press",Excellent,1,120.00,5,30,Yes,2025-01-08
+86,86,2,"Screw Holder Rack","Rack for screws",Good,1,40.00,6,10,Yes,2025-02-15
+87,87,3,"Hand Plane Set","Set of hand planes",Good,1,60.00,7,15,Yes,2025-03-05
+88,88,1,"Work Light","LED portable work light",Excellent,1,30.00,8,8,Yes,2025-04-12
+89,89,2,"Paint Tray","Tray for painting work",Good,1,15.00,9,5,Yes,2025-05-20
+90,90,3,"Screw Organizer","Organizer for screws and nails",Good,1,20.00,10,6,Yes,2025-06-05
+91,91,1,"Work Gloves","Protective gloves for handwork",Excellent,1,10.00,11,3,Yes,2025-06-18
+92,92,2,"Portable Vacuum","Compact workshop vacuum cleaner",Good,1,80.00,12,20,Yes,2025-07-05
+93,93,3,"Clamp Holder","Set of clamp holders",Good,1,25.00,13,8,Yes,2025-07-22
+94,94,1,"Ladder 5m","Aluminium 5-meter ladder",Excellent,1,120.00,14,28,Yes,2025-08-12
+95,95,2,"Drill Kit","Complete drill kit with accessories",Good,1,90.00,15,25,Yes,2025-08-28
+96,96,3,"Wire Brush Set","Set of wire brushes",Good,1,30.00,16,7,Yes,2025-09-10
+97,97,1,"Tool Belt","Belt for holding tools",Excellent,1,40.00,17,10,Yes,2025-09-25
+98,98,2,"Angle Polisher","Electric angle polisher",Good,1,110.00,18,30,Yes,2025-10-12
+99,99,3,"Hand Saw Pro","Professional wood hand saw",Good,1,50.00,19,12,Yes,2025-10-28
+100,100,1,"Workbench Stool","Adjustable stool for workbench",Excellent,1,35.00,20,8,Yes,2025-11-15
+101,101,2,"Cordless Jigsaw","Battery powered jigsaw",Good,1,90.00,1,25,Yes,2025-11-20
+102,102,3,"Angle Clamp Set","Set of angle clamps",Good,1,40.00,2,10,Yes,2025-12-05
+103,103,1,"Workbench Light Pro","High brightness LED work light",Excellent,1,35.00,3,12,Yes,2025-12-18
+104,104,2,"Drill Stand Pro","Professional drill stand",Good,1,120.00,4,30,Yes,2026-01-05
+105,105,3,"Tool Organizer Rack","Wall mounted tool organizer",Good,1,50.00,5,15,Yes,2026-01-20
+106,106,1,"Paint Roller Deluxe","Set of 5 paint rollers",Excellent,1,25.00,6,8,Yes,2026-02-10
+107,107,2,"Cordless Drill Pro","Battery powered drill with accessories",Good,1,90.00,7,28,Yes,2026-02-25
+108,108,3,"Workbench Mat Deluxe","Non-slip rubber mat for workbench",Good,1,30.00,8,10,Yes,2026-03-12
+109,109,1,"Electric Drill Press","Electric drill press machine",Excellent,1,120.00,9,30,Yes,2026-03-28
+110,110,2,"Screw Holder Pro","Wall mounted screw holder",Good,1,40.00,10,12,Yes,2026-04-10
+111,111,3,"Hand Plane Deluxe","Professional wood hand plane",Good,1,60.00,11,15,Yes,2026-04-25
+112,112,1,"Work Light Pro","High brightness portable LED light",Excellent,1,35.00,12,10,Yes,2026-05-12
+113,113,2,"Paint Tray Deluxe","Tray for large painting jobs",Good,1,20.00,13,8,Yes,2026-05-28
+114,114,3,"Screwdriver Set Pro","Professional screwdriver set",Good,1,45.00,14,12,Yes,2026-06-15
+115,115,1,"Workbench Stool Pro","Adjustable workbench stool",Excellent,1,35.00,15,10,Yes,2026-06-30
+116,116,2,"Cordless Sander Pro","Battery powered sander",Good,1,90.00,16,25,Yes,2026-07-12
+117,117,3,"Measuring Tape Deluxe","10m steel measuring tape",Good,1,25.00,17,6,Yes,2026-07-28
+118,118,1,"Ladder 6m","Aluminium ladder 6-meter",Excellent,1,140.00,18,32,Yes,2026-08-10
+119,119,2,"Impact Driver Pro","Electric impact driver",Good,1,110.00,19,28,Yes,2026-08-25
+120,120,3,"Chisel Set Deluxe","Professional wood chisels set",Good,1,50.00,20,12,Yes,2026-09-10
+121,121,1,"Screw Holder Rack Pro","Wall mounted screw holder rack",Excellent,1,35.00,1,8,Yes,2026-09-28
+122,122,2,"Tool Stand Pro","Portable tool stand for workshop",Good,1,80.00,2,20,Yes,2026-10-12
+123,123,3,"Hand Drill Deluxe","Manual hand drill professional",Good,1,40.00,3,10,Yes,2026-10-28
+124,124,1,"Bolt Set Pro","Set of various bolts",Excellent,1,25.00,4,8,Yes,2026-11-12
+125,125,2,"Clamp Rack Deluxe","Rack for holding clamps",Good,1,35.00,5,10,Yes,2026-11-28
+126,126,3,"Workbench Organizer Pro","Organizer for workshop tools",Good,1,50.00,6,15,Yes,2026-12-10
+127,127,1,"Electric Jigsaw Pro","Advanced electric jigsaw",Excellent,1,90.00,7,25,Yes,2026-12-28
+128,128,2,"Bolt Extractor Pro","Tool for removing bolts safely",Good,1,35.00,8,10,Yes,2027-01-12
+129,129,3,"Measuring Square Deluxe","Metal measuring square ruler",Good,1,20.00,9,6,Yes,2027-01-28
+130,130,1,"Cordless Screwdriver Pro","Battery powered screwdriver",Excellent,1,60.00,10,15,Yes,2027-02-12
+131,131,2,"Workbench Mat Pro","Non-slip rubber mat",Good,1,25.00,11,8,Yes,2027-02-28
+132,132,3,"Drill Press Pro","Electric drill press machine",Good,1,120.00,12,30,Yes,2027-03-10
+133,133,1,"Screw Holder Deluxe","Wall mounted screw holder",Excellent,1,40.00,13,12,Yes,2027-03-25
+134,134,2,"Hand Plane Pro","Professional wood hand plane",Good,1,60.00,14,15,Yes,2027-04-10
+135,135,3,"Work Light Deluxe","High brightness portable LED light",Good,1,35.00,15,10,Yes,2027-04-28
+136,136,1,"Paint Tray Pro","Tray for painting work",Excellent,1,20.00,16,8,Yes,2027-05-12
+137,137,2,"Screwdriver Set Deluxe","Professional screwdriver set",Good,1,45.00,17,12,Yes,2027-05-28
+138,138,3,"Workbench Stool Deluxe","Adjustable workbench stool",Good,1,35.00,18,10,Yes,2027-06-12
+139,139,1,"Cordless Sander Deluxe","Battery powered sander",Excellent,1,90.00,19,25,Yes,2027-06-28
+140,140,2,"Measuring Tape Pro","10m steel measuring tape",Good,1,25.00,20,6,Yes,2027-07-12
+141,141,3,"Ladder 7m","Aluminium ladder 7-meter",Good,1,160.00,1,35,Yes,2027-07-28
+142,142,1,"Impact Driver Deluxe","Electric impact driver",Excellent,1,110.00,2,28,Yes,2027-08-12
+143,143,2,"Chisel Set Pro","Professional wood chisels set",Good,1,50.00,3,12,Yes,2027-08-28
+144,144,3,"Screw Holder Rack Deluxe","Rack for screws",Good,1,35.00,4,10,Yes,2027-09-10
+145,145,1,"Tool Stand Deluxe","Portable tool stand",Excellent,1,80.00,5,20,Yes,2027-09-25
+146,146,2,"Hand Drill Pro","Manual hand drill",Good,1,40.00,6,10,Yes,2027-10-12
+147,147,3,"Bolt Set Deluxe","Set of bolts",Good,1,25.00,7,8,Yes,2027-10-28
+148,148,1,"Clamp Rack Pro","Rack for holding clamps",Excellent,1,35.00,8,10,Yes,2027-11-12
+149,149,2,"Workbench Organizer Deluxe","Organizer for workshop tools",Good,1,50.00,9,15,Yes,2027-11-28
+150,150,3,"Electric Jigsaw Deluxe","Advanced electric jigsaw",Good,1,90.00,10,25,Yes,2027-12-10
+151,151,1,"Bolt Extractor Deluxe","Tool for removing bolts",Excellent,1,35.00,11,10,Yes,2027-12-28
+152,152,2,"Measuring Square Pro","Metal measuring square",Good,1,20.00,12,6,Yes,2028-01-12
+153,153,3,"Cordless Screwdriver Deluxe","Battery powered screwdriver",Good,1,60.00,13,15,Yes,2028-01-28
+154,154,1,"Workbench Mat Deluxe","Non-slip rubber mat",Excellent,1,25.00,14,8,Yes,2028-02-12
+155,155,2,"Drill Press Deluxe","Electric drill press",Good,1,120.00,15,30,Yes,2028-02-28
+156,156,3,"Screw Holder Pro","Wall mounted screw holder",Good,1,40.00,16,12,Yes,2028-03-10
+157,157,1,"Hand Plane Deluxe","Professional wood hand plane",Excellent,1,60.00,17,15,Yes,2028-03-25
+158,158,2,"Work Light Pro","High brightness portable LED light",Good,1,35.00,18,10,Yes,2028-04-12
+159,159,3,"Paint Tray Pro","Tray for painting work",Good,1,20.00,19,8,Yes,2028-04-28
+160,160,1,"Screwdriver Set Pro","Professional screwdriver set",Excellent,1,45.00,20,12,Yes,2028-05-12
+161,161,2,"Workbench Stool Pro","Adjustable workbench stool",Good,1,35.00,1,10,Yes,2028-05-28
+162,162,3,"Cordless Sander Pro","Battery powered sander",Good,1,90.00,2,25,Yes,2028-06-12
+163,163,1,"Measuring Tape Pro","10m steel measuring tape",Excellent,1,25.00,3,6,Yes,2028-06-28
+164,164,2,"Ladder 8m","Aluminium ladder 8-meter",Good,1,180.00,4,38,Yes,2028-07-12
+165,165,3,"Impact Driver Pro","Electric impact driver",Good,1,110.00,5,28,Yes,2028-07-28
+166,166,1,"Chisel Set Deluxe","Professional wood chisels set",Excellent,1,50.00,6,12,Yes,2028-08-12
+167,167,2,"Screw Holder Rack Pro","Rack for screws",Good,1,35.00,7,10,Yes,2028-08-28
+168,168,3,"Tool Stand Deluxe","Portable tool stand",Good,1,80.00,8,20,Yes,2028-09-10
+169,169,1,"Hand Drill Pro","Manual hand drill",Excellent,1,40.00,9,10,Yes,2028-09-25
+170,170,2,"Bolt Set Deluxe","Set of bolts",Good,1,25.00,10,8,Yes,2028-10-12
+171,171,3,"Clamp Rack Pro","Rack for holding clamps",Good,1,35.00,11,10,Yes,2028-10-28
+172,172,1,"Workbench Organizer Deluxe","Organizer for workshop tools",Excellent,1,50.00,12,15,Yes,2028-11-12
+173,173,2,"Electric Jigsaw Deluxe","Advanced electric jigsaw",Good,1,90.00,13,25,Yes,2028-11-28
+174,174,3,"Bolt Extractor Deluxe","Tool for removing bolts",Good,1,35.00,14,10,Yes,2028-12-10
+175,175,1,"Measuring Square Pro","Metal measuring square",Excellent,1,20.00,15,6,Yes,2028-12-28
+176,176,2,"Cordless Screwdriver Deluxe","Battery powered screwdriver",Good,1,60.00,16,15,Yes,2029-01-12
+177,177,3,"Workbench Mat Deluxe","Non-slip rubber mat",Good,1,25.00,17,8,Yes,2029-01-28
+178,178,1,"Drill Press Deluxe","Electric drill press machine",Excellent,1,120.00,18,30,Yes,2029-02-12
+179,179,2,"Screw Holder Pro","Wall mounted screw holder",Good,1,40.00,19,12,Yes,2029-02-28
+180,180,3,"Hand Plane Deluxe","Professional wood hand plane",Good,1,60.00,20,15,Yes,2029-03-10
+181,181,1,"Work Light Pro","High brightness portable LED light",Excellent,1,35.00,1,10,Yes,2029-03-25
+182,182,2,"Paint Tray Pro","Tray for painting work",Good,1,20.00,2,8,Yes,2029-04-12
+183,183,3,"Screwdriver Set Pro","Professional screwdriver set",Good,1,45.00,3,12,Yes,2029-04-28
+184,184,1,"Workbench Stool Pro","Adjustable workbench stool",Excellent,1,35.00,4,10,Yes,2029-05-12
+185,185,2,"Cordless Sander Pro","Battery powered sander",Good,1,90.00,5,25,Yes,2029-05-28
+186,186,1,"Measuring Tape Deluxe","10m steel measuring tape",Excellent,1,25.00,6,6,Yes,2029-06-12
+187,187,2,"Ladder 9m","Aluminium ladder 9-meter",Good,1,200.00,7,40,Yes,2029-06-28
+188,188,3,"Impact Driver Deluxe","Electric impact driver",Good,1,110.00,8,28,Yes,2029-07-12
+189,189,1,"Chisel Set Pro","Professional wood chisels set",Excellent,1,50.00,9,12,Yes,2029-07-28
+190,190,2,"Screw Holder Rack Deluxe","Rack for screws",Good,1,35.00,10,10,Yes,2029-08-12
+191,191,3,"Tool Stand Pro","Portable tool stand",Good,1,80.00,11,20,Yes,2029-08-28
+192,192,1,"Hand Drill Deluxe","Manual hand drill",Excellent,1,40.00,12,10,Yes,2029-09-12
+193,193,2,"Bolt Set Pro","Set of bolts",Good,1,25.00,13,8,Yes,2029-09-28
+194,194,3,"Clamp Rack Deluxe","Rack for holding clamps",Good,1,35.00,14,10,Yes,2029-10-12
+195,195,1,"Workbench Organizer Pro","Organizer for workshop tools",Excellent,1,50.00,15,15,Yes,2029-10-28
+196,196,2,"Electric Jigsaw Pro","Advanced electric jigsaw",Good,1,90.00,16,25,Yes,2029-11-12
+197,197,3,"Bolt Extractor Pro","Tool for removing bolts safely",Good,1,35.00,17,10,Yes,2029-11-28
+198,198,1,"Measuring Square Deluxe","Metal measuring square ruler",Excellent,1,20.00,18,6,Yes,2029-12-12
+199,199,2,"Cordless Screwdriver Pro","Battery powered screwdriver",Good,1,60.00,19,15,Yes,2029-12-28
+200,200,3,"Workbench Mat Pro","Non-slip rubber mat for workbench",Good,1,25.00,20,8,Yes,2030-01-12
